@@ -1,5 +1,6 @@
+import LoginPage from './pages/Login';
 function App() {
-  return <div className="App">Hello React</div>;
+  return <LoginPage />;
 }
 
 export default App;
